@@ -19,6 +19,8 @@
   <ItemGroup>
     <FxCompile Include="RayCast.fx" />
     <FxCompile Include="DensityFuncVolume.hlsl" />
-    <FxCompile Include="EfficientRayCast.fx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="EfficientRayCast.fx" />
   </ItemGroup>
 </Project>
